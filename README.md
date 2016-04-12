@@ -21,6 +21,7 @@ log("Some message")
 ```
 ## Collaborating
 Please open an issue if you seen any errors, mistakes or ideas for improvements.
+
 Pull requests are always welcome.
 
 ## License
