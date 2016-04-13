@@ -27,6 +27,15 @@ log("Some message")
 (1...1024).reduce(0,combine: +)
 ```
 
+###### Verify if Exists in a String
+```swift
+let words = ["Swift","iOS","cocoa","OSX","tvOS"]
+let tweet = "This is an example tweet larking about Swift"
+let valid = words.contains(tweet.containsString)
+valid //true
+```
+
+
 
 
 
