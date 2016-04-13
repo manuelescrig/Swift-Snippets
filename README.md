@@ -19,6 +19,17 @@ func log(message: String,
     
 log("Some message")
 ```
+
+#### Collection Types
+
+###### Sum a list of numbers
+```swift
+(1...1024).reduce(0,combine: +)
+```
+
+
+
+
 ## Collaborating
 Please open an issue if you seen any errors, mistakes or ideas for improvements.
 
