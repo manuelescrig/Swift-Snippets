@@ -1,5 +1,5 @@
-# Learning Swift
-Learning Swift - A collection of Swift language snippets.
+# Swift Snippets 
+Swift Snippets - A collection of Swift language snippets.
 
 ## Introduction
 The purpose of this repository is to collect the most typical Swift code snippets for learning purposes.
