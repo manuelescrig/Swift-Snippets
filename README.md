@@ -45,12 +45,20 @@ valid //true
 ```
 
 #### Device
-###### iOS Version
+###### Mdoel
 ```swift
-let version = UIDevice.currentDevice().systemVersion.floatValue
+let version = UIDevice.currentDevice().model
 ```
 
+###### System Name
+```swift
+let version = UIDevice.currentDevice().systemName
+```
 
+###### iOS Version
+```swift
+let version = UIDevice.currentDevice().systemVersion
+```
 
 ## Collaborating
 Please open an issue if you seen any errors, mistakes or ideas for improvements.
