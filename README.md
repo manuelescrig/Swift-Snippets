@@ -20,6 +20,15 @@ func log(message: String,
 log("Some message")
 ```
 
+#### Literals
+
+###### String
+
+###### Array
+
+###### Dictionary
+
+
 #### Collection Types
 
 ###### Sum a list of numbers
@@ -35,7 +44,11 @@ let valid = words.contains(tweet.containsString)
 valid //true
 ```
 
-
+#### Device
+###### iOS Version
+```swift
+let version = UIDevice.currentDevice().systemVersion.floatValue
+```
 
 
 
