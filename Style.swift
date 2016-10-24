@@ -1,9 +1,9 @@
 //
 //  Style.swift
-//  Amcor POC
+//  Ventura Media
 //
 //  Created by Manuel on 9/30/16.
-//  Copyright © 2016 Liip AG. All rights reserved.
+//  Copyright © 2016 Manuel Escrig Ventura. All rights reserved.
 //
 
 import UIKit
